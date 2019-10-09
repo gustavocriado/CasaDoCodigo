@@ -1,0 +1,15 @@
+C:\Users\gustavo.lira\Downloads\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\gustavo.lira\Downloads\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\gustavo.lira\Downloads\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\gustavo.lira\Downloads\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\bin\Debug\netcoreapp2.0\livros.json
+C:\Users\gustavo.lira\Downloads\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\gustavo.lira\Downloads\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.deps.json
+C:\Users\gustavo.lira\Downloads\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.runtimeconfig.json
+C:\Users\gustavo.lira\Downloads\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.runtimeconfig.dev.json
+C:\Users\gustavo.lira\Downloads\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.dll
+C:\Users\gustavo.lira\Downloads\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.pdb
+C:\Users\gustavo.lira\Downloads\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.csprojAssemblyReference.cache
+C:\Users\gustavo.lira\Downloads\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfoInputs.cache
+C:\Users\gustavo.lira\Downloads\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfo.cs
+C:\Users\gustavo.lira\Downloads\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.dll
+C:\Users\gustavo.lira\Downloads\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.pdb
